@@ -40,4 +40,29 @@ Supplier Analysis
 - Which supplier locations contribute most to procurement ?
 
 Inventory Analysis 
+- How the inventory is changing month over month ?
+- Which products have the highest defect rate ? 
+- Which products are close to thier reorder point ?
+- Which products have healthly and unhealthy inventory ?
+- How does inventory compare against safety stock ?
+
+Shipment Analysis
+- Which carrier delayed most of the shipments ? 
+- What are the major causes of shipment delays ?
+- How does shipment cost vary monthly ?
+- What percentage of shipments are delayed, delivered, in transit, or processing ?
+
+Customer Analysis
+- Which customer platform generates highest revenue ?
+- Which sales channel contributes the highest revenue ?
+- How does revenue vary accross customer platforms ?
+
+---
+### 🛠 Tools and Technologies
+
+- SQL
+- Microsoft Power BI
+- DAX
+- Data Modelling
+
 
