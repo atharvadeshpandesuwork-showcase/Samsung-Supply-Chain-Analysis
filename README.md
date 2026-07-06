@@ -161,5 +161,11 @@ Shipment Dashboard
 
 ![Shipment Dashboard](Screenshots/Shipment.png)
 
+Customer Dashboard
+
+![Customer Dashboard](Screenshots/Customer.png)
+
+![Customer Dashboard](Screenshots/Customer(1).png)
+
 
 
