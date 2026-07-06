@@ -130,9 +130,36 @@ This dashboard will help us track important business metrics such as:
 ### 📷 Dashboard Screenshots
 
 Homepage
+
 ![Homepage](Screenshots/Homepage.png)
 
+Executive Overview
 
+![Overview](Screenshots/Overview_Page.png)
+
+![Overview](Screenshots/Overview_Page(1).png)
+
+![Overview](Screenshots/Overview_Page(2).png)
+
+![Overview](Screenshots/Overview_Page(3).png)
+
+![Overview](Screenshots/Overview_Page(4).png)
+
+Supplier Dashboard
+
+![Supplier Dashboard](Screenshots/Supplier.png)
+
+![Supplier Dashboard](Screenshots/Supplier(2).png)
+
+![Supplier Dashboard](Screenshots/Supplier(3).png)
+
+Inventory Dashboard
+
+![Inventory Dashboard](Screenshots/Inventory.png)
+
+Shipment Dashboard
+
+![Shipment Dashboard](Screenshots/Shipment.png)
 
 
 
